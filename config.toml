@@ -1,0 +1,4 @@
+baseURL = 'https://macoops.fr/'
+languageCode = 'fr-fr'
+title = 'Ma coops'
+theme = "ananke"
