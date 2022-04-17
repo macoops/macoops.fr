@@ -2,3 +2,11 @@ baseURL = 'https://macoops.fr/'
 languageCode = 'fr-fr'
 title = 'Ma coops'
 theme = "ananke"
+defaultContentLanguage = 'fr'
+
+[languages]
+  [languages.fr]
+    title = "Ma coops"
+    languageName = "fr"
+    contentDir = "content/fr"
+    weight = 1
